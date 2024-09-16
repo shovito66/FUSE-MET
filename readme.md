@@ -4,13 +4,14 @@ by
 ***Shovito Barua Soumma, Abdullah Mamun, and  Hassan Ghasemzadeh***
 ---
 
+### _FUSE-MET is currently under review. The complete code will be made available at this repository after the acceptance of our submission. The reviewers have access to the source code in the supplementary materials of our submission._
+
 ```
 pip3 freeze > requirements.txt
 ```
 
 
 ## Table of Contents
-- [To Cite This Work](#to-cite-this-work)
 - [Abstract](#abstract)
 - [Getting the Code](#getting-the-code)
 - [Running the Code](#running-the-code)
@@ -18,16 +19,6 @@ pip3 freeze > requirements.txt
   - [Setup Environment](#setup-environment)
   - [Reproducing the Results](#reproducing-the-results)
 
-
-## To Cite This Work
-```
-@article{soumma2025_fuse_met,
-  title={Domain-Driven Label Fusion Surpasses LLMs in Free-Living Activity Classification},
-  author={Soumma, Shovito Barua and Mamun, Abdullah and Ghasemzadeh, Hassan},
-  booktitle={AAAI 2025 Abstract},
-  year={2025}
-}
-```
 
 ## Getting the code
 
@@ -84,7 +75,7 @@ or, if you're on Windows:
    ```
     python main.py --task plot_figures --output_folder output --exp_name result_reproduce --override True
    ```
-4. Run the following command  for to generate baseline result (using all 36 distinct classes without any label fusion)
+4. Run the following command to generate baseline results (using all 36 distinct classes without any label fusion)
     ```
     python main.py --task baseline_no_cluster --output_folder output --exp_name result_reproduce --override True
     ```
