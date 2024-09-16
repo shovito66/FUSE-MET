@@ -6,10 +6,6 @@ by
 
 ### _FUSE-MET is currently under review. The complete code will be made available at this repository after the acceptance of our submission. The reviewers have access to the source code in the supplementary materials of our submission._
 
-```
-pip3 freeze > requirements.txt
-```
-
 
 ## Table of Contents
 - [Abstract](#abstract)
