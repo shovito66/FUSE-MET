@@ -1,4 +1,4 @@
-# *Domain-Driven Label Fusion Surpasses LLMs in Free-Living  Activity Classification*
+# *Domain-Informed Label Fusion Surpasses LLMs in Free-Living  Activity Classification*
 
 by
 ***Shovito Barua Soumma, Abdullah Mamun, and  Hassan Ghasemzadeh***
