@@ -1,0 +1,8 @@
+.DS_Store
+data
+.spyproject
+venv
+.idea
+**/__pycache__/
+
+
