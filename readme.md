@@ -4,7 +4,7 @@ by
 ***Shovito Barua Soumma, Abdullah Mamun, and  Hassan Ghasemzadeh***
 ---
 
-### _FUSE-MET has been accepted at AAAI 2025 Student Abstract and Poster Program. The code is available now.
+### _FUSE-MET has been accepted at AAAI 2025 Student Abstract and Poster Program. The code is available now._
 ### Watch a 3-minute video here: [https://www.youtube.com/watch?v=mn9j57Md840](https://www.youtube.com/watch?v=mn9j57Md840).
 ### Full-text PDF: [https://ghasemzadeh.com/papers/FuseMET_AAAI_Abstract_2025_CameraReady.pdf](https://ghasemzadeh.com/papers/FuseMET_AAAI_Abstract_2025_CameraReady.pdf)
 ### Slides: [here](https://ghasemzadeh.com/publication/2024-10-shovito-domain-informed-label-fusion-surpasses-llms-in-free-living-activity-classification/FuSE-MET_AAAI_SA132.pdf)
