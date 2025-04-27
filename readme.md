@@ -6,9 +6,15 @@ by
 
 ### _FUSE-MET has been accepted at AAAI 2025 Student Abstract and Poster Program. The code is available now._
 ### Watch a 3-minute video here: [https://www.youtube.com/watch?v=mn9j57Md840](https://www.youtube.com/watch?v=mn9j57Md840).
-### Full-text PDF: [https://ghasemzadeh.com/papers/FuseMET_AAAI_Abstract_2025_CameraReady.pdf](https://ghasemzadeh.com/papers/FuseMET_AAAI_Abstract_2025_CameraReady.pdf)
+### Full-text PDF: [https://ojs.aaai.org/index.php/AAAI/article/view/35301/37456](https://ojs.aaai.org/index.php/AAAI/article/view/35301/37456)
+### DOI: [https://doi.org/10.1609/aaai.v39i28.35301](https://doi.org/10.1609/aaai.v39i28.35301)
 ### Slides: [here](https://ghasemzadeh.com/publication/2024-10-shovito-domain-informed-label-fusion-surpasses-llms-in-free-living-activity-classification/FuSE-MET_AAAI_SA132.pdf)
 
+## How to cite?
+
+````
+@article{Soumma_Mamun_Ghasemzadeh_2025, title={Domain-Informed Label Fusion Surpasses LLMs in Free-Living Activity Classification (Student Abstract)}, volume={39}, url={https://ojs.aaai.org/index.php/AAAI/article/view/35301}, DOI={10.1609/aaai.v39i28.35301}, abstractNote={FuSE-MET addresses critical challenges in deploying human activity recognition (HAR) systems in uncontrolled environments by effectively managing noisy labels, sparse data, and undefined activity vocabularies. By integrating BERT-based word embeddings with domain-specific knowledge (i.e., MET values), FuSE-MET optimizes label merging, reducing label complexity and improving classification accuracy. Our approach outperforms the state-of-the-art techniques, including ChatGPT-4, by balancing semantic meaning and physical intensity.}, number={28}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Soumma, Shovito Barua and Mamun, Abdullah and Ghasemzadeh, Hassan}, year={2025}, month={Apr.}, pages={29495-29497} }
+````
 
 ## Table of Contents
 - [Abstract](#abstract)
